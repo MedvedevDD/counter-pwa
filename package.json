@@ -1,5 +1,6 @@
 {
   "name": "counter-pwa",
+  "homepage": "https://medvedevdd.github.io/counter-pwa/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
